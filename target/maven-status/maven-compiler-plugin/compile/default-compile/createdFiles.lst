@@ -1,0 +1,5 @@
+com\TripilarProject\filehandling\excel\WriteExcelFile.class
+com\TripilarProject\filehandling\text\WriteTextFile.class
+com\TripilarProject\filehandling\excel\ReadExcelFile.class
+com\TripilarProject\filehandling\text\ReadTextFile.class
+com\tripillar\filehandling\FileHandlingProject\App.class
